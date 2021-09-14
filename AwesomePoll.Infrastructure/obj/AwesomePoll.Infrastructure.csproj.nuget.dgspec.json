@@ -1,0 +1,197 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\joseg\\source\\repos\\AwesomePoll\\AwesomePoll.Infrastructure\\AwesomePoll.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\joseg\\source\\repos\\AwesomePoll\\AwesomePoll.Application\\AwesomePoll.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joseg\\source\\repos\\AwesomePoll\\AwesomePoll.Application\\AwesomePoll.Application.csproj",
+        "projectName": "AwesomePoll.Application",
+        "projectPath": "C:\\Users\\joseg\\source\\repos\\AwesomePoll\\AwesomePoll.Application\\AwesomePoll.Application.csproj",
+        "packagesPath": "C:\\Users\\joseg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joseg\\source\\repos\\AwesomePoll\\AwesomePoll.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joseg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\joseg\\source\\repos\\AwesomePoll\\AwesomePoll.Core\\AwesomePoll.Core.csproj": {
+                "projectPath": "C:\\Users\\joseg\\source\\repos\\AwesomePoll\\AwesomePoll.Core\\AwesomePoll.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.7.21379.14\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\joseg\\source\\repos\\AwesomePoll\\AwesomePoll.Core\\AwesomePoll.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joseg\\source\\repos\\AwesomePoll\\AwesomePoll.Core\\AwesomePoll.Core.csproj",
+        "projectName": "AwesomePoll.Core",
+        "projectPath": "C:\\Users\\joseg\\source\\repos\\AwesomePoll\\AwesomePoll.Core\\AwesomePoll.Core.csproj",
+        "packagesPath": "C:\\Users\\joseg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joseg\\source\\repos\\AwesomePoll\\AwesomePoll.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joseg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.7.21379.14\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\joseg\\source\\repos\\AwesomePoll\\AwesomePoll.Infrastructure\\AwesomePoll.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joseg\\source\\repos\\AwesomePoll\\AwesomePoll.Infrastructure\\AwesomePoll.Infrastructure.csproj",
+        "projectName": "AwesomePoll.Infrastructure",
+        "projectPath": "C:\\Users\\joseg\\source\\repos\\AwesomePoll\\AwesomePoll.Infrastructure\\AwesomePoll.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\joseg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joseg\\source\\repos\\AwesomePoll\\AwesomePoll.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joseg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\joseg\\source\\repos\\AwesomePoll\\AwesomePoll.Application\\AwesomePoll.Application.csproj": {
+                "projectPath": "C:\\Users\\joseg\\source\\repos\\AwesomePoll\\AwesomePoll.Application\\AwesomePoll.Application.csproj"
+              },
+              "C:\\Users\\joseg\\source\\repos\\AwesomePoll\\AwesomePoll.Core\\AwesomePoll.Core.csproj": {
+                "projectPath": "C:\\Users\\joseg\\source\\repos\\AwesomePoll\\AwesomePoll.Core\\AwesomePoll.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.7.21379.14\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\joseg\source\repos\AwesomePoll\AwesomePoll.Core\bin\Debug\net5.0\AwesomePoll.Core.deps.json
+C:\Users\joseg\source\repos\AwesomePoll\AwesomePoll.Core\bin\Debug\net5.0\AwesomePoll.Core.dll
+C:\Users\joseg\source\repos\AwesomePoll\AwesomePoll.Core\bin\Debug\net5.0\ref\AwesomePoll.Core.dll
+C:\Users\joseg\source\repos\AwesomePoll\AwesomePoll.Core\bin\Debug\net5.0\AwesomePoll.Core.pdb
+C:\Users\joseg\source\repos\AwesomePoll\AwesomePoll.Core\obj\Debug\net5.0\AwesomePoll.Core.csproj.AssemblyReference.cache
+C:\Users\joseg\source\repos\AwesomePoll\AwesomePoll.Core\obj\Debug\net5.0\AwesomePoll.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseg\source\repos\AwesomePoll\AwesomePoll.Core\obj\Debug\net5.0\AwesomePoll.Core.AssemblyInfoInputs.cache
+C:\Users\joseg\source\repos\AwesomePoll\AwesomePoll.Core\obj\Debug\net5.0\AwesomePoll.Core.AssemblyInfo.cs
+C:\Users\joseg\source\repos\AwesomePoll\AwesomePoll.Core\obj\Debug\net5.0\AwesomePoll.Core.csproj.CoreCompileInputs.cache
+C:\Users\joseg\source\repos\AwesomePoll\AwesomePoll.Core\obj\Debug\net5.0\AwesomePoll.Core.dll
+C:\Users\joseg\source\repos\AwesomePoll\AwesomePoll.Core\obj\Debug\net5.0\ref\AwesomePoll.Core.dll
+C:\Users\joseg\source\repos\AwesomePoll\AwesomePoll.Core\obj\Debug\net5.0\AwesomePoll.Core.pdb

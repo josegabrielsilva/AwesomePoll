@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B1mORGVD+Wqyu2BTuuwOrnFVizlevvufVVvpH/ChkxVmOIprOaPpn55gZM/SCaCzVAgv7+xYGzov1dgNlK43BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joseg\\source\\repos\\AwesomePoll\\AwesomePoll.Application\\AwesomePoll.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joseg\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\joseg\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\joseg\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
